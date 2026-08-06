@@ -7,7 +7,7 @@
 
 <h3 align="left">📖 A Little About Me</h3>
 <p align="left">
-I am a versatile Software Engineer and GIS enthusiast with research experience at Jaume I University (Castellón, Spain). I am deeply passionate about leveraging technology to solve complex, real-world problems. My expertise spans Full-Stack Web Development, Data Analytics, Deep Learning and GIS. Whether it's building interactive web applications, creating GIS, or developing PyTorch models for computer vision, I love architecting solutions from the ground up!
+I am a versatile Software Engineer and GIS enthusiast with research experience. I am deeply passionate about leveraging technology to solve complex, real-world problems. My expertise spans Full-Stack Web Development, Data Analytics, Deep Learning and GIS. Whether it's building interactive web applications, creating GIS, or developing PyTorch models for computer vision, I love architecting solutions from the ground up!
 </p>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning for GIS**
@@ -16,19 +16,3 @@ I am a versatile Software Engineer and GIS enthusiast with research experience a
 - 💬 Ask me about **Road Network Detection, Remote sensing and Full-Stack Apps**
 
 <br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi1017&theme=radical&hide_border=true" alt="Mehdi1017's GitHub Streak" />
-</p>
