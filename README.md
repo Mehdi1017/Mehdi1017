@@ -36,6 +36,5 @@ I am a versatile Software Engineer and Data Science enthusiast with research exp
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehdi1017&show_icons=true&theme=radical&hide_border=true" alt="Mehdi1017's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi1017&theme=radical&hide_border=true" alt="Mehdi1017's GitHub Streak" />
 </p>
