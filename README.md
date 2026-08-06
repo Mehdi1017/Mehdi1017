@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Mehdi1017&label=Profile%20views&color=0e75b6&style=flat" alt="Mehdi1017" /> 
 </p>
 
+<h3 align="left">📖 A Little About Me</h3>
+<p align="left">
+I am a versatile Software Engineer and Data Science enthusiast with research experience at Jaume I University (Castellón, Spain). I am deeply passionate about leveraging technology to solve complex, real-world problems. My expertise spans Full-Stack Web Development, Data Analytics, and Deep Learning. Whether it's building interactive Vue.js web applications, analyzing large-scale environmental datasets, or developing PyTorch models for computer vision, I love architecting solutions from the ground up!
+</p>
+
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, & Web Development**
 - 🌱 I’m currently learning **Advanced PyTorch Architectures and Data Science Analysis**
 - 💼 I have experience in **Vue.js, Python, Java, Unity, and Firebase**
